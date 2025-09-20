@@ -2,7 +2,7 @@
     "asset": "copper",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2025-09-20T16:57:56+00:00",
+    "last_updated": "2025-09-20T17:28:34+00:00",
     "data": [
         {
             "timestamp": 1758379770,
@@ -23,7 +23,12 @@
             "timestamp": 1758387476,
             "date": "2025-09-20T16:57:56+00:00",
             "price": 0.2879251244
+        },
+        {
+            "timestamp": 1758389314,
+            "date": "2025-09-20T17:28:34+00:00",
+            "price": 0.2879251244
         }
     ],
-    "entries_count": 4
+    "entries_count": 5
 }
