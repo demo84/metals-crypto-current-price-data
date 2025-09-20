@@ -2,7 +2,7 @@
     "asset": "bitcoin",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2025-09-20T16:57:56+00:00",
+    "last_updated": "2025-09-20T17:28:34+00:00",
     "data": [
         {
             "timestamp": 1757797357,
@@ -138,7 +138,12 @@
             "timestamp": 1758387476,
             "date": "2025-09-20T16:57:56+00:00",
             "price": 116060
+        },
+        {
+            "timestamp": 1758389314,
+            "date": "2025-09-20T17:28:34+00:00",
+            "price": 115920
         }
     ],
-    "entries_count": 27
+    "entries_count": 28
 }
