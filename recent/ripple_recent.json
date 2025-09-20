@@ -2,7 +2,7 @@
     "asset": "ripple",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2025-09-20T16:26:14+00:00",
+    "last_updated": "2025-09-20T17:00:17+00:00",
     "data": [
         {
             "timestamp": 1757782909,
@@ -138,7 +138,12 @@
             "timestamp": 1758385574,
             "date": "2025-09-20T16:26:14+00:00",
             "price": 2.9893575398785175
+        },
+        {
+            "timestamp": 1758387617,
+            "date": "2025-09-20T17:00:17+00:00",
+            "price": 2.99
         }
     ],
-    "entries_count": 27
+    "entries_count": 28
 }
