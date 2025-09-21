@@ -1,8 +1,4 @@
 {
-    "asset": "gold",
-    "timeframe": "recent",
-    "days_included": 7,
-    "last_updated": "2025-09-21T23:18:34+00:00",
     "data": [
         {
             "timestamp": 1757851200,
@@ -43,7 +39,16 @@
             "timestamp": 1758456000,
             "date": "2025-09-21T12:00:00+00:00",
             "price": 3685.2583034397
+        },
+        {
+            "timestamp": 1758498467,
+            "date": "2025-09-21T23:47:47+00:00",
+            "price": 3688.3138725599
         }
     ],
-    "entries_count": 8
+    "asset": "gold",
+    "timeframe": "recent",
+    "days_included": 7,
+    "last_updated": "2025-09-21T23:47:47+00:00",
+    "entries_count": 9
 }
