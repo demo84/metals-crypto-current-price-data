@@ -1,8 +1,4 @@
 {
-    "asset": "solana",
-    "timeframe": "recent",
-    "days_included": 7,
-    "last_updated": "2025-09-21T23:14:29+00:00",
     "data": [
         {
             "timestamp": 1757894547,
@@ -128,7 +124,16 @@
             "timestamp": 1758496457,
             "date": "2025-09-21T23:14:17+00:00",
             "price": 236.7
+        },
+        {
+            "timestamp": 1758498467,
+            "date": "2025-09-21T23:47:47+00:00",
+            "price": 236.88
         }
     ],
-    "entries_count": 25
+    "asset": "solana",
+    "timeframe": "recent",
+    "days_included": 7,
+    "last_updated": "2025-09-21T23:47:47+00:00",
+    "entries_count": 26
 }
