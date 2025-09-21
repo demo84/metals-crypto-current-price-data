@@ -2,7 +2,7 @@
     "asset": "ethereum",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2025-09-20T17:29:02+00:00",
+    "last_updated": "2025-09-21T23:14:17+00:00",
     "data": [
         {
             "timestamp": 1757797353,
@@ -143,7 +143,12 @@
             "timestamp": 1758389342,
             "date": "2025-09-20T17:29:02+00:00",
             "price": 4484.96
+        },
+        {
+            "timestamp": 1758496457,
+            "date": "2025-09-21T23:14:17+00:00",
+            "price": 4450.55
         }
     ],
-    "entries_count": 28
+    "entries_count": 29
 }
