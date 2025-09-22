@@ -1,8 +1,4 @@
 {
-    "asset": "ripple",
-    "timeframe": "recent",
-    "days_included": 7,
-    "last_updated": "2025-09-22T21:01:30+00:00",
     "data": [
         {
             "timestamp": 1757991759,
@@ -103,7 +99,16 @@
             "timestamp": 1758496761,
             "date": "2025-09-21T23:19:21+00:00",
             "price": 2.98
+        },
+        {
+            "timestamp": 1758580949,
+            "date": "2025-09-22T22:42:29+00:00",
+            "price": 2.85
         }
     ],
-    "entries_count": 20
+    "asset": "ripple",
+    "timeframe": "recent",
+    "days_included": 7,
+    "last_updated": "2025-09-22T22:42:29+00:00",
+    "entries_count": 21
 }
