@@ -1,8 +1,4 @@
 {
-    "asset": "dogecoin",
-    "timeframe": "recent",
-    "days_included": 7,
-    "last_updated": "2025-09-22T21:01:30+00:00",
     "data": [
         {
             "timestamp": 1757970109,
@@ -113,7 +109,16 @@
             "timestamp": 1758496761,
             "date": "2025-09-21T23:19:21+00:00",
             "price": 0.261143
+        },
+        {
+            "timestamp": 1758580949,
+            "date": "2025-09-22T22:42:29+00:00",
+            "price": 0.240276
         }
     ],
-    "entries_count": 22
+    "asset": "dogecoin",
+    "timeframe": "recent",
+    "days_included": 7,
+    "last_updated": "2025-09-22T22:42:29+00:00",
+    "entries_count": 23
 }
