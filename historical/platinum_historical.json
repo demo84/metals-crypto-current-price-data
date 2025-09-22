@@ -1,8 +1,4 @@
 {
-    "asset": "platinum",
-    "timeframe": "historical",
-    "days_included": 365,
-    "last_updated": "2025-09-20T17:21:52+00:00",
     "data": [
         {
             "date": "2024-09-20",
@@ -213,6 +209,14 @@
             "price": 1385.1453412229
         },
         {
+            "date": "2025-09-14",
+            "price": 1398.5483906834
+        },
+        {
+            "date": "2025-09-15",
+            "price": 1411.1117429756
+        },
+        {
             "date": "2025-09-19",
             "price": 1388.0562479257
         },
@@ -221,6 +225,8 @@
             "price": 1413.8018446438
         }
     ],
-    "entries_count": 54,
-    "backfill_completed": true
+    "entries_count": 56,
+    "asset": "platinum",
+    "timeframe": "historical",
+    "last_updated": "2025-09-22T21:01:30+00:00"
 }
