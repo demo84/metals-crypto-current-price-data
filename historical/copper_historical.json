@@ -1,8 +1,4 @@
 {
-    "asset": "copper",
-    "timeframe": "historical",
-    "days_included": 365,
-    "last_updated": "2025-09-20T17:29:45+00:00",
     "data": [
         {
             "date": "2024-09-21",
@@ -1466,5 +1462,7 @@
         }
     ],
     "entries_count": 365,
-    "backfill_completed": true
+    "asset": "copper",
+    "timeframe": "historical",
+    "last_updated": "2025-09-22T21:01:30+00:00"
 }
