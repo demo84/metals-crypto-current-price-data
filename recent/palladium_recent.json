@@ -449,11 +449,16 @@
             "timestamp": 1758659438,
             "date": "2025-09-23T20:30:38+00:00",
             "price": 1234.5000799339
+        },
+        {
+            "timestamp": 1758660337,
+            "date": "2025-09-23T20:45:37+00:00",
+            "price": 1232.2143717845
         }
     ],
     "asset": "palladium",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2025-09-23T20:30:38+00:00",
-    "entries_count": 90
+    "last_updated": "2025-09-23T20:45:37+00:00",
+    "entries_count": 91
 }
