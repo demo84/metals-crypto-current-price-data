@@ -629,11 +629,16 @@
             "timestamp": 1758682838,
             "date": "2025-09-24T03:00:38+00:00",
             "price": 214.05
+        },
+        {
+            "timestamp": 1758683737,
+            "date": "2025-09-24T03:15:37+00:00",
+            "price": 213.71
         }
     ],
     "asset": "solana",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2025-09-24T03:00:38+00:00",
-    "entries_count": 126
+    "last_updated": "2025-09-24T03:15:37+00:00",
+    "entries_count": 127
 }
