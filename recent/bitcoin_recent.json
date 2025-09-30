@@ -1,16 +1,6 @@
 {
     "data": [
         {
-            "timestamp": 1758574876,
-            "date": "2025-09-22T21:01:16+00:00",
-            "price": 112869
-        },
-        {
-            "timestamp": 1758580818,
-            "date": "2025-09-22T22:40:18+00:00",
-            "price": 112731
-        },
-        {
             "timestamp": 1758587463,
             "date": "2025-09-23T00:31:03+00:00",
             "price": 112820
@@ -3354,11 +3344,16 @@
             "timestamp": 1759190438,
             "date": "2025-09-30T00:00:38+00:00",
             "price": 114381
+        },
+        {
+            "timestamp": 1759191337,
+            "date": "2025-09-30T00:15:37+00:00",
+            "price": 114468
         }
     ],
     "asset": "bitcoin",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2025-09-30T00:00:38+00:00",
-    "entries_count": 671
+    "last_updated": "2025-09-30T00:15:37+00:00",
+    "entries_count": 670
 }
