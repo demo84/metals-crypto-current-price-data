@@ -3804,11 +3804,16 @@
             "timestamp": 1759443338,
             "date": "2025-10-02T22:15:38+00:00",
             "price": 1081.15
+        },
+        {
+            "timestamp": 1759444238,
+            "date": "2025-10-02T22:30:38+00:00",
+            "price": 1083.45
         }
     ],
     "asset": "binancecoin",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2025-10-02T22:15:38+00:00",
-    "entries_count": 761
+    "last_updated": "2025-10-02T22:30:38+00:00",
+    "entries_count": 762
 }
