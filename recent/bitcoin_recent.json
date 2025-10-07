@@ -3369,11 +3369,16 @@
             "timestamp": 1759819537,
             "date": "2025-10-07T06:45:37+00:00",
             "price": 123891
+        },
+        {
+            "timestamp": 1759821337,
+            "date": "2025-10-07T07:15:37+00:00",
+            "price": 123879
         }
     ],
     "asset": "bitcoin",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2025-10-07T06:45:37+00:00",
-    "entries_count": 674
+    "last_updated": "2025-10-07T07:15:37+00:00",
+    "entries_count": 675
 }
