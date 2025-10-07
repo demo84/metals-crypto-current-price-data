@@ -1,11 +1,6 @@
 {
     "data": [
         {
-            "timestamp": 1759165314,
-            "date": "2025-09-29T17:01:54+00:00",
-            "price": 0.8004237962943863
-        },
-        {
             "timestamp": 1759190520,
             "date": "2025-09-30T00:02:00+00:00",
             "price": 0.80713373050909
@@ -229,6 +224,6 @@
     "asset": "cardano",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2025-10-07T00:00:38+00:00",
-    "entries_count": 45
+    "last_updated": "2025-10-07T00:00:50+00:00",
+    "entries_count": 44
 }
