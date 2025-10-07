@@ -1,16 +1,6 @@
 {
     "data": [
         {
-            "timestamp": 1759165289,
-            "date": "2025-09-29T17:01:29+00:00",
-            "price": 2.883383238873629
-        },
-        {
-            "timestamp": 1759186926,
-            "date": "2025-09-29T23:02:06+00:00",
-            "price": 2.8894341915933928
-        },
-        {
             "timestamp": 1759212122,
             "date": "2025-09-30T06:02:02+00:00",
             "price": 2.898970657335838
@@ -229,6 +219,6 @@
     "asset": "ripple",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2025-10-07T00:00:38+00:00",
-    "entries_count": 45
+    "last_updated": "2025-10-07T00:00:50+00:00",
+    "entries_count": 43
 }
