@@ -1044,11 +1044,16 @@
             "timestamp": 1760073337,
             "date": "2025-10-10T05:15:37+00:00",
             "price": 0.249208
+        },
+        {
+            "timestamp": 1760074237,
+            "date": "2025-10-10T05:30:37+00:00",
+            "price": 0.250135
         }
     ],
     "asset": "dogecoin",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2025-10-10T05:15:37+00:00",
-    "entries_count": 209
+    "last_updated": "2025-10-10T05:30:37+00:00",
+    "entries_count": 210
 }
