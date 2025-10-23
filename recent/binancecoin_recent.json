@@ -1974,11 +1974,16 @@
             "timestamp": 1761202838,
             "date": "2025-10-23T07:00:38+00:00",
             "price": 1109.05
+        },
+        {
+            "timestamp": 1761204638,
+            "date": "2025-10-23T07:30:38+00:00",
+            "price": 1104
         }
     ],
     "asset": "binancecoin",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2025-10-23T07:00:38+00:00",
-    "entries_count": 395
+    "last_updated": "2025-10-23T07:30:38+00:00",
+    "entries_count": 396
 }
