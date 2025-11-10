@@ -3819,11 +3819,16 @@
             "timestamp": 1762815638,
             "date": "2025-11-10T23:00:38+00:00",
             "price": 1439.3
+        },
+        {
+            "timestamp": 1762816538,
+            "date": "2025-11-10T23:15:38+00:00",
+            "price": 1439.02
         }
     ],
     "asset": "platinum",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2025-11-10T23:00:38+00:00",
-    "entries_count": 764
+    "last_updated": "2025-11-10T23:15:38+00:00",
+    "entries_count": 765
 }
