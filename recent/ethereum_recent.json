@@ -2069,11 +2069,16 @@
             "timestamp": 1762869638,
             "date": "2025-11-11T14:00:38+00:00",
             "price": 3530.87
+        },
+        {
+            "timestamp": 1762870538,
+            "date": "2025-11-11T14:15:38+00:00",
+            "price": 3529.43
         }
     ],
     "asset": "ethereum",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2025-11-11T14:00:38+00:00",
-    "entries_count": 414
+    "last_updated": "2025-11-11T14:15:38+00:00",
+    "entries_count": 415
 }
