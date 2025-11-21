@@ -1914,11 +1914,16 @@
             "timestamp": 1763690437,
             "date": "2025-11-21T02:00:37+00:00",
             "price": 2.01
+        },
+        {
+            "timestamp": 1763692237,
+            "date": "2025-11-21T02:30:37+00:00",
+            "price": 2.01
         }
     ],
     "asset": "ripple",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2025-11-21T02:00:37+00:00",
-    "entries_count": 383
+    "last_updated": "2025-11-21T02:30:37+00:00",
+    "entries_count": 384
 }
