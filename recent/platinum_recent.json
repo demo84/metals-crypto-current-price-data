@@ -3679,11 +3679,16 @@
             "timestamp": 1764000037,
             "date": "2025-11-24T16:00:37+00:00",
             "price": 1400.47
+        },
+        {
+            "timestamp": 1764000937,
+            "date": "2025-11-24T16:15:37+00:00",
+            "price": 1401.32
         }
     ],
     "asset": "platinum",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2025-11-24T16:00:37+00:00",
-    "entries_count": 736
+    "last_updated": "2025-11-24T16:15:37+00:00",
+    "entries_count": 737
 }
