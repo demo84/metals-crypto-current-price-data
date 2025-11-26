@@ -2169,11 +2169,16 @@
             "timestamp": 1764194440,
             "date": "2025-11-26T22:00:40+00:00",
             "price": 90158
+        },
+        {
+            "timestamp": 1764196238,
+            "date": "2025-11-26T22:30:38+00:00",
+            "price": 90301
         }
     ],
     "asset": "bitcoin",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2025-11-26T22:00:40+00:00",
-    "entries_count": 434
+    "last_updated": "2025-11-26T22:30:38+00:00",
+    "entries_count": 435
 }
