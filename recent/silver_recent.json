@@ -3599,11 +3599,16 @@
             "timestamp": 1765540837,
             "date": "2025-12-12T12:00:37+00:00",
             "price": 64.6
+        },
+        {
+            "timestamp": 1765541737,
+            "date": "2025-12-12T12:15:37+00:00",
+            "price": 64.61
         }
     ],
     "asset": "silver",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2025-12-12T12:00:37+00:00",
-    "entries_count": 720
+    "last_updated": "2025-12-12T12:15:37+00:00",
+    "entries_count": 721
 }
