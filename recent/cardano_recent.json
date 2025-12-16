@@ -2009,11 +2009,16 @@
             "timestamp": 1765872040,
             "date": "2025-12-16T08:00:40+00:00",
             "price": 0.380354
+        },
+        {
+            "timestamp": 1765872936,
+            "date": "2025-12-16T08:15:36+00:00",
+            "price": 0.382061
         }
     ],
     "asset": "cardano",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2025-12-16T08:00:40+00:00",
-    "entries_count": 402
+    "last_updated": "2025-12-16T08:15:36+00:00",
+    "entries_count": 403
 }
