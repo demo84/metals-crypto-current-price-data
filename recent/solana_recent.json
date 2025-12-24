@@ -2139,11 +2139,16 @@
             "timestamp": 1766603736,
             "date": "2025-12-24T19:15:36+00:00",
             "price": 122.25
+        },
+        {
+            "timestamp": 1766605536,
+            "date": "2025-12-24T19:45:36+00:00",
+            "price": 122.48
         }
     ],
     "asset": "solana",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2025-12-24T19:15:36+00:00",
-    "entries_count": 428
+    "last_updated": "2025-12-24T19:45:36+00:00",
+    "entries_count": 429
 }
