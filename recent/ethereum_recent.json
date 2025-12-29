@@ -1999,11 +1999,16 @@
             "timestamp": 1766992537,
             "date": "2025-12-29T07:15:37+00:00",
             "price": 3019.33
+        },
+        {
+            "timestamp": 1766993437,
+            "date": "2025-12-29T07:30:37+00:00",
+            "price": 3011.07
         }
     ],
     "asset": "ethereum",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2025-12-29T07:15:37+00:00",
-    "entries_count": 400
+    "last_updated": "2025-12-29T07:30:37+00:00",
+    "entries_count": 401
 }
