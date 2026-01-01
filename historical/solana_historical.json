@@ -1915,10 +1915,18 @@
         {
             "date": "2025-12-23",
             "price": 123.91
+        },
+        {
+            "date": "2025-12-24",
+            "price": 122.64
+        },
+        {
+            "date": "2025-12-25",
+            "price": 122.48
         }
     ],
-    "entries_count": 479,
+    "entries_count": 481,
     "asset": "solana",
     "timeframe": "historical",
-    "last_updated": "2025-12-31T00:00:50+00:00"
+    "last_updated": "2026-01-01T00:00:50+00:00"
 }
