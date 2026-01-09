@@ -1,8 +1,6 @@
 {
     "currency": "NZD",
     "base": "USD",
-    "last_updated": "2026-01-09T10:00:10+00:00",
-    "entries_count": 58,
     "data": [
         {
             "date": "2024-12-02",
@@ -235,6 +233,12 @@
         {
             "date": "2026-01-05",
             "rate": 1.7343
+        },
+        {
+            "date": "2026-01-09",
+            "rate": 1.7399
         }
-    ]
+    ],
+    "last_updated": "2026-01-09T10:00:44+00:00",
+    "entries_count": 59
 }
