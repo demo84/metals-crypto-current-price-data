@@ -1134,11 +1134,16 @@
             "timestamp": 1770094838,
             "date": "2026-02-03T05:00:38+00:00",
             "price": 0.301125
+        },
+        {
+            "timestamp": 1770097538,
+            "date": "2026-02-03T05:45:38+00:00",
+            "price": 0.299139
         }
     ],
     "asset": "cardano",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2026-02-03T05:00:38+00:00",
-    "entries_count": 227
+    "last_updated": "2026-02-03T05:45:38+00:00",
+    "entries_count": 228
 }
