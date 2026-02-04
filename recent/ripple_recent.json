@@ -1159,11 +1159,16 @@
             "timestamp": 1770195639,
             "date": "2026-02-04T09:00:39+00:00",
             "price": 1.61
+        },
+        {
+            "timestamp": 1770198337,
+            "date": "2026-02-04T09:45:37+00:00",
+            "price": 1.6
         }
     ],
     "asset": "ripple",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2026-02-04T09:00:39+00:00",
-    "entries_count": 232
+    "last_updated": "2026-02-04T09:45:37+00:00",
+    "entries_count": 233
 }
