@@ -3609,11 +3609,16 @@
             "timestamp": 1775133038,
             "date": "2026-04-02T12:30:38+00:00",
             "price": 4599.48
+        },
+        {
+            "timestamp": 1775133938,
+            "date": "2026-04-02T12:45:38+00:00",
+            "price": 4595.96
         }
     ],
     "asset": "gold",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2026-04-02T12:30:38+00:00",
-    "entries_count": 722
+    "last_updated": "2026-04-02T12:45:38+00:00",
+    "entries_count": 723
 }
