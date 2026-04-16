@@ -1224,11 +1224,16 @@
             "timestamp": 1776375038,
             "date": "2026-04-16T21:30:38+00:00",
             "price": 1.45
+        },
+        {
+            "timestamp": 1776378638,
+            "date": "2026-04-16T22:30:38+00:00",
+            "price": 1.45
         }
     ],
     "asset": "ripple",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2026-04-16T21:30:38+00:00",
-    "entries_count": 245
+    "last_updated": "2026-04-16T22:30:38+00:00",
+    "entries_count": 246
 }
