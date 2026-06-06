@@ -1994,11 +1994,16 @@
             "timestamp": 1780726537,
             "date": "2026-06-06T06:15:37+00:00",
             "price": 62.83
+        },
+        {
+            "timestamp": 1780728337,
+            "date": "2026-06-06T06:45:37+00:00",
+            "price": 62.85
         }
     ],
     "asset": "solana",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2026-06-06T06:15:37+00:00",
-    "entries_count": 399
+    "last_updated": "2026-06-06T06:45:37+00:00",
+    "entries_count": 400
 }
