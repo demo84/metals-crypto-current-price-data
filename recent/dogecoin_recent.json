@@ -1954,11 +1954,16 @@
             "timestamp": 1780715737,
             "date": "2026-06-06T03:15:37+00:00",
             "price": 0.081128
+        },
+        {
+            "timestamp": 1780716637,
+            "date": "2026-06-06T03:30:37+00:00",
+            "price": 0.080837
         }
     ],
     "asset": "dogecoin",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2026-06-06T03:15:37+00:00",
-    "entries_count": 391
+    "last_updated": "2026-06-06T03:30:37+00:00",
+    "entries_count": 392
 }
