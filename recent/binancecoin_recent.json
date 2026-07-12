@@ -2054,11 +2054,16 @@
             "timestamp": 1783857641,
             "date": "2026-07-12T12:00:41+00:00",
             "price": 579.55
+        },
+        {
+            "timestamp": 1783858541,
+            "date": "2026-07-12T12:15:41+00:00",
+            "price": 582.15
         }
     ],
     "asset": "binancecoin",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2026-07-12T12:00:41+00:00",
-    "entries_count": 411
+    "last_updated": "2026-07-12T12:15:41+00:00",
+    "entries_count": 412
 }
