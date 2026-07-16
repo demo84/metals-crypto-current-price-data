@@ -2014,11 +2014,16 @@
             "timestamp": 1784188841,
             "date": "2026-07-16T08:00:41+00:00",
             "price": 1.1
+        },
+        {
+            "timestamp": 1784190637,
+            "date": "2026-07-16T08:30:37+00:00",
+            "price": 1.1
         }
     ],
     "asset": "ripple",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2026-07-16T08:00:41+00:00",
-    "entries_count": 403
+    "last_updated": "2026-07-16T08:30:37+00:00",
+    "entries_count": 404
 }
