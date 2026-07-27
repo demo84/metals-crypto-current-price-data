@@ -3749,11 +3749,16 @@
             "timestamp": 1785179739,
             "date": "2026-07-27T19:15:39+00:00",
             "price": 4067.51
+        },
+        {
+            "timestamp": 1785180639,
+            "date": "2026-07-27T19:30:39+00:00",
+            "price": 4072.76
         }
     ],
     "asset": "gold",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2026-07-27T19:15:39+00:00",
-    "entries_count": 750
+    "last_updated": "2026-07-27T19:30:39+00:00",
+    "entries_count": 751
 }
