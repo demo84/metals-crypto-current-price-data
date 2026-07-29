@@ -2009,11 +2009,16 @@
             "timestamp": 1785312039,
             "date": "2026-07-29T08:00:39+00:00",
             "price": 64451
+        },
+        {
+            "timestamp": 1785313839,
+            "date": "2026-07-29T08:30:39+00:00",
+            "price": 64256
         }
     ],
     "asset": "bitcoin",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2026-07-29T08:00:39+00:00",
-    "entries_count": 402
+    "last_updated": "2026-07-29T08:30:39+00:00",
+    "entries_count": 403
 }
