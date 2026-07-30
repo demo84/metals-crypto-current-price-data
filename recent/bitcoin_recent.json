@@ -2149,11 +2149,16 @@
             "timestamp": 1785440739,
             "date": "2026-07-30T19:45:39+00:00",
             "price": 64782
+        },
+        {
+            "timestamp": 1785442540,
+            "date": "2026-07-30T20:15:40+00:00",
+            "price": 64748
         }
     ],
     "asset": "bitcoin",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2026-07-30T19:45:39+00:00",
-    "entries_count": 430
+    "last_updated": "2026-07-30T20:15:40+00:00",
+    "entries_count": 431
 }
