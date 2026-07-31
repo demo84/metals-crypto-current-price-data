@@ -3729,11 +3729,16 @@
             "timestamp": 1785521739,
             "date": "2026-07-31T18:15:39+00:00",
             "price": 54.22
+        },
+        {
+            "timestamp": 1785522639,
+            "date": "2026-07-31T18:30:39+00:00",
+            "price": 53.95
         }
     ],
     "asset": "silver",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2026-07-31T18:15:39+00:00",
-    "entries_count": 746
+    "last_updated": "2026-07-31T18:30:39+00:00",
+    "entries_count": 747
 }
