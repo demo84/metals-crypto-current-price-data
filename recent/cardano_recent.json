@@ -2039,11 +2039,16 @@
             "timestamp": 1785578439,
             "date": "2026-08-01T10:00:39+00:00",
             "price": 0.172038
+        },
+        {
+            "timestamp": 1785580238,
+            "date": "2026-08-01T10:30:38+00:00",
+            "price": 0.172057
         }
     ],
     "asset": "cardano",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2026-08-01T10:00:39+00:00",
-    "entries_count": 408
+    "last_updated": "2026-08-01T10:30:38+00:00",
+    "entries_count": 409
 }
