@@ -3824,11 +3824,16 @@
             "timestamp": 1785798059,
             "date": "2026-08-03T23:00:59+00:00",
             "price": 1486.65
+        },
+        {
+            "timestamp": 1785798940,
+            "date": "2026-08-03T23:15:40+00:00",
+            "price": 1486.65
         }
     ],
     "asset": "platinum",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2026-08-03T23:00:59+00:00",
-    "entries_count": 765
+    "last_updated": "2026-08-03T23:15:40+00:00",
+    "entries_count": 766
 }
