@@ -3689,11 +3689,36 @@
             "timestamp": 1786986040,
             "date": "2026-08-17T17:00:40+00:00",
             "price": 1787
+        },
+        {
+            "timestamp": 1786986939,
+            "date": "2026-08-17T17:15:39+00:00",
+            "price": 1786
+        },
+        {
+            "timestamp": 1786987841,
+            "date": "2026-08-17T17:30:41+00:00",
+            "price": 1781
+        },
+        {
+            "timestamp": 1786988740,
+            "date": "2026-08-17T17:45:40+00:00",
+            "price": 1782
+        },
+        {
+            "timestamp": 1786989642,
+            "date": "2026-08-17T18:00:42+00:00",
+            "price": 1781
+        },
+        {
+            "timestamp": 1786990541,
+            "date": "2026-08-17T18:15:41+00:00",
+            "price": 1783
         }
     ],
     "asset": "platinum",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2026-08-17T17:00:40+00:00",
-    "entries_count": 738
+    "last_updated": "2026-08-17T18:15:41+00:00",
+    "entries_count": 743
 }
