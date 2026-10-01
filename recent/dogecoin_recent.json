@@ -1919,11 +1919,16 @@
             "timestamp": 1790881240,
             "date": "2026-10-01T19:00:40+00:00",
             "price": 0.094889
+        },
+        {
+            "timestamp": 1790882139,
+            "date": "2026-10-01T19:15:39+00:00",
+            "price": 0.094933
         }
     ],
     "asset": "dogecoin",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2026-10-01T19:00:40+00:00",
-    "entries_count": 384
+    "last_updated": "2026-10-01T19:15:39+00:00",
+    "entries_count": 385
 }
