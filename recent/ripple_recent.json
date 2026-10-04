@@ -1819,11 +1819,16 @@
             "timestamp": 1791108936,
             "date": "2026-10-04T10:15:36+00:00",
             "price": 1.5
+        },
+        {
+            "timestamp": 1791109838,
+            "date": "2026-10-04T10:30:38+00:00",
+            "price": 1.5
         }
     ],
     "asset": "ripple",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2026-10-04T10:15:36+00:00",
-    "entries_count": 364
+    "last_updated": "2026-10-04T10:30:38+00:00",
+    "entries_count": 365
 }
