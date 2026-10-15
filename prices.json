@@ -1,23 +1,23 @@
 {
     "prices": {
-        "gold": 4148.1,
-        "silver": 56.76,
-        "platinum": 1617,
+        "gold": 4150.3,
+        "silver": 56.88,
+        "platinum": 1619,
         "palladium": 1334.3517105588,
         "copper": 0.3149459746,
-        "binancecoin": 721.46,
+        "binancecoin": 720.03,
         "bitcoin": 80932,
         "ethereum": 2362.29,
         "solana": 102.22,
         "ripple": 1.31,
-        "cardano": 0.22195,
-        "dogecoin": 0.080338
+        "cardano": 0.220935,
+        "dogecoin": 0.080368
     },
-    "last_updated": "2026-10-15T12:00:42+00:00",
-    "timestamp": 1792065642,
+    "last_updated": "2026-10-15T12:15:50+00:00",
+    "timestamp": 1792066550,
     "status": "success",
     "market_status": {
         "metals_open": true,
-        "next_metal_open": "2026-10-15T12:00:42+00:00"
+        "next_metal_open": "2026-10-15T12:15:50+00:00"
     }
 }
