@@ -2009,11 +2009,16 @@
             "timestamp": 1792395049,
             "date": "2026-10-19T07:30:49+00:00",
             "price": 1.32
+        },
+        {
+            "timestamp": 1792396849,
+            "date": "2026-10-19T08:00:49+00:00",
+            "price": 1.31
         }
     ],
     "asset": "ripple",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2026-10-19T07:30:49+00:00",
-    "entries_count": 402
+    "last_updated": "2026-10-19T08:00:49+00:00",
+    "entries_count": 403
 }
