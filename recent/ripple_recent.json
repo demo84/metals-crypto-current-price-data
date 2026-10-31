@@ -2004,11 +2004,16 @@
             "timestamp": 1793431843,
             "date": "2026-10-31T07:30:43+00:00",
             "price": 1.25
+        },
+        {
+            "timestamp": 1793433644,
+            "date": "2026-10-31T08:00:44+00:00",
+            "price": 1.24
         }
     ],
     "asset": "ripple",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2026-10-31T07:30:43+00:00",
-    "entries_count": 401
+    "last_updated": "2026-10-31T08:00:44+00:00",
+    "entries_count": 402
 }
