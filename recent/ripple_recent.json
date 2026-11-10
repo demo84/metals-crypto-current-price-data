@@ -2029,11 +2029,16 @@
             "timestamp": 1794303037,
             "date": "2026-11-10T09:30:37+00:00",
             "price": 1.087
+        },
+        {
+            "timestamp": 1794303937,
+            "date": "2026-11-10T09:45:37+00:00",
+            "price": 1.085
         }
     ],
     "asset": "ripple",
     "timeframe": "recent",
     "days_included": 7,
-    "last_updated": "2026-11-10T09:30:37+00:00",
-    "entries_count": 406
+    "last_updated": "2026-11-10T09:45:37+00:00",
+    "entries_count": 407
 }
